@@ -8,7 +8,13 @@ Just download and link <i>customizable-alerts.js</i> and <i>customizable-alerts.
 
 <h3>Using</h3>
 There are two functions for now: cAlert() and cInput().
+
 Just use them in the code!
+
+To close the cAlert, just click on it!
+
+To close the cInput, just type in the value and click the button!
+
 <h4>Params</h4>
     
     cAlert(title, text, <i>opacity</i>, <i>borderRadius</i>, <i>backgroundColor</i>);
@@ -41,4 +47,4 @@ Planning on adding CDN soon.
 
 Also planning to add another alert functions, but don't know if i'll ever do this!
 
-By the way, you can test this two functions on my github pages. <a href="https://grigoryan-m.github.io/customizable-alerts">Link</a>
+By the way, you can test this two functions on my github pages. <a target="_blank" href="https://grigoryan-m.github.io/customizable-alerts">Link</a>
